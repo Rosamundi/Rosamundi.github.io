@@ -135,6 +135,10 @@ h1 {
   margin: 0.67em 0;
 }
 
+.cursive {
+  font-style: italic;
+}
+
 /**
  * Address styling not present in IE 8/9.
  */
